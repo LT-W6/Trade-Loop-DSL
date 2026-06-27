@@ -2,7 +2,7 @@
 
 **A domain-specific language for defining, validating, and scoring cross-market trade loops.**
 
-Built in Rust. Developed by [LT-W6](https://github.com/LT-W6) — the research and infrastructure arm of [Loop Trade](https://looptrade.com).
+Built in Rust. Developed by [LT-W6](https://github.com/LT-W6) — the research and infrastructure arm of [Loop Trade].
 
 ---
 
